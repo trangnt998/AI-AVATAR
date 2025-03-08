@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c280138e-a9cc-4f97-b932-7c001fa49dc1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gojitsu/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/aiavatar/bases/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/aiavatar/pages/AccountPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/aiavatar/pages/ArtPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/aiavatar/pages/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/aiavatar/pages/RegisterPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/aiavatar/pages/VerifyEmailPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/aiavatar/pages/VerifyPhonePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/aiavatar/steps/AccountSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/aiavatar/steps/ArtSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/aiavatar/steps/LoginSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/aiavatar/steps/RegisterSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/aiavatar/steps/VerifyEmailSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/aiavatar/steps/VerifyPhoneSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/aiavatar/tests/RegisterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/aiavatar/utils/AppiumDriverManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/aiavatar/utils/MailUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/resources/testsuites/TestNGHooksLearning.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2tyf2IV7WwxwcmMd1BjrZhEGM8L" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.MailUtils.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.RegisterTest.executor": "Run",
+    "TestNG.RegisterTest.registerAccountSuccess.executor": "Run",
+    "TestNG.RegisterTest.registerBByGoogle.executor": "Run",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="TestNG.RegisterTest">
+    <configuration name="MailUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aiavatar.utils.MailUtils" />
+      <module name="SeleniumAppiumMobileAIAvatar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aiavatar.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegisterTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumAppiumMobileAIAvatar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aiavatar.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="aiavatar.tests" />
+      <option name="MAIN_CLASS_NAME" value="aiavatar.tests.RegisterTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegisterTest.registerAccountSuccess" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumAppiumMobileAIAvatar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aiavatar.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="aiavatar.tests" />
+      <option name="MAIN_CLASS_NAME" value="aiavatar.tests.RegisterTest" />
+      <option name="METHOD_NAME" value="registerAccountSuccess" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegisterTest.registerBByGoogle" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumAppiumMobileAIAvatar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aiavatar.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="aiavatar.tests" />
+      <option name="MAIN_CLASS_NAME" value="aiavatar.tests.RegisterTest" />
+      <option name="METHOD_NAME" value="registerBByGoogle" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.RegisterTest" />
+        <item itemvalue="TestNG.RegisterTest.registerAccountSuccess" />
+        <item itemvalue="Application.MailUtils" />
+        <item itemvalue="TestNG.RegisterTest.registerBByGoogle" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c280138e-a9cc-4f97-b932-7c001fa49dc1" name="Changes" comment="" />
+      <created>1741329027963</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1741329027963</updated>
+    </task>
+    <servers />
+  </component>
+</project>
